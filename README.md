@@ -15,10 +15,10 @@ The app specs are as follows:
 1) Run on Windows, Mac, Linux, and Android
 2) Allow an entry for the number of lanes available
 3) Allow entry of scout names or registration numbers
-4) Generate a table of races with information from (2) & (3) follows the algorithm rules
+4) Generate a table of race heats with information from (2) & (3) that follows the algorithm rules
 5) Allow entry of place (first, second, etc.)
-6) Add up a score based on place (first place 1 point, etc.)
-7) Generate and/or the scores for leaders to declare run-offs or winners
+6) Add up a score based on place (first place 1 point, second place 2 points, etc.)
+7) Record the scores and generate a list for leaders to declare run-offs or winners
 8) Optional addition to (6) Have an entry for Cub Masters to assign or remove Ad Hoc points for displays of good/bad character and sportsmanship.
 
 *  http://www.marc-borom.com/PinewoodDerby/Better_Pinewood_Derby.htm
